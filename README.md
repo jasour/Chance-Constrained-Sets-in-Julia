@@ -1,7 +1,7 @@
 # Julia Code for Chance Constrained Sets
 
 
-**Chance Constrained Set:** Set of all design parameters (control inputs, plans,...) that satisfies probabilistic nonlinear safety constraints.
+**Chance Constrained Set:** Set of all design parameters (control inputs, plans,...) that satisfy probabilistic nonlinear safety constraints.
 
 - By constructing chance constrained sets, we can turn a chance constrained optimization in to a deterministic optimization.
 - Moment-sum-of-squates based Semidefinite Programming
